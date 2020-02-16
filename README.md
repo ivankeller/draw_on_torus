@@ -1,1 +1,3 @@
-# draw_on_torus
+# Draw on torus
+playing with geometry on torus
+wip
